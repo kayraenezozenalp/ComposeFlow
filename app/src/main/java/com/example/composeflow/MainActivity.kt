@@ -35,6 +35,7 @@ class MainActivity : ComponentActivity() {
                         textAlign = TextAlign.Center,
                         modifier = Modifier.align(Alignment.Center))
 
+
                     }
                 }
             }
